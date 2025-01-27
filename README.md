@@ -1,7 +1,7 @@
 
 # NanoGrad - A Lightweight Neural Network Library
 
-**NanoGrad** is a minimalistic yet powerful neural network library built from scratch in Python, designed for educational purposes and ease of understanding. Inspired by Andrej Karpathy's Micrograd, NanoGrad empowers you to learn and experiment with the core principles of neural networks without the overhead of large machine learning frameworks.
+**NanoGrad** is a minimalistic yet powerful neural network library built from scratch in Python, designed for educational purposes and ease of understanding. I, NanoGrad empowers you to learn and experiment with the core principles of neural networks without the overhead of large machine learning frameworks.
 
 With NanoGrad, you can build, train, and experiment with custom neural networks while leveraging the power of automatic differentiation and backpropagation. 
 
