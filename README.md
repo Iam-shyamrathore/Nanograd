@@ -23,7 +23,7 @@ With NanoGrad, you can build, train, and experiment with custom neural networks 
 To get started with NanoGrad, clone the repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/nanograd.git
+git clone https://github.com/Iam-shyamrathore/Nanograd.git
 cd nanograd
 pip install -r requirements.txt
 ```
